@@ -1,1 +1,0 @@
-# Tutorial-Photo-tagging-application-on-MicroPasts
